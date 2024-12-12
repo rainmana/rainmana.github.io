@@ -109,7 +109,7 @@ mindmap
 
 ## 🎓 Education
 
-- 📚 **Bachelor of Science**: Cybersecurity - Purdue University Global (4.0 GPA)
+- 📚 **Bachelor of Science**: Cybersecurity - Purdue University Global (4.0 GPA) (Incomplete/To be finished later)
 
 ## 🏆 Recent Achievements
 
