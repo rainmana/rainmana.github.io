@@ -1,1 +1,9 @@
 remote_theme: devich/quick@0.0.1
+bg_color: "dark"
+theme_color: "azure"
+title: "Alec Akin | README.md"
+description: "Alec Akin's GitHub.io Homepage"
+keywords: "Alec Akin, Alec, Akin, AlecAkin, Alec Akin's Homepage, Alec Akin's GitHub.io Homepage, security, security engineer, security researcher, security analyst, security consultant"
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-spaceship
