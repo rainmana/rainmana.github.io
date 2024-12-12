@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Alec Akin | README.md"
+---
+
 # 👨‍💻 William "Alec" Akin
 
 <div align="center">
@@ -43,21 +48,16 @@ With 15+ years of IT experience and a lifelong passion for cybersecurity, I spec
 
 ### 💻 Languages & Tools
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<i class="devicon-python-plain" style="font-size: 48px; color: #3776AB;"></i>
+<i class="devicon-go-plain" style="font-size: 48px; color: #00ADD8;"></i>
+<i class="devicon-bash-plain" style="font-size: 48px; color: #4EAA25;"></i>
 
 ### 🔒 Security Tools & Platforms
 
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<i class="devicon-splunk-plain" style="font-size: 48px; color: #000000;"></i>
+<i class="devicon-amazonwebservices-plain" style="font-size: 48px; color: #FF9900;"></i>
+<i class="devicon-azure-plain" style="font-size: 48px; color: #0072C6;"></i>
+<i class="devicon-linux-plain" style="font-size: 48px; color: #FCC624;"></i>
 
 </div>
 
