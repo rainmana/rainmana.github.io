@@ -44,14 +44,19 @@ With 15+ years of IT experience and a lifelong passion for cybersecurity, I spec
 ### 💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🔒 Security Tools & Platforms
 
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
@@ -132,6 +137,7 @@ mindmap
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainmana&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rainmana&layout=compact&theme=radical)
 
 </div>
@@ -141,6 +147,7 @@ mindmap
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rainmana&color=brightgreen)
+
 [![GitHub followers](https://img.shields.io/github/followers/rainmana?label=Follow&style=social)](https://github.com/rainmana)
 
 *"Security is a journey, not a destination."*
