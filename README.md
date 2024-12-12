@@ -5,8 +5,11 @@
 > 🛡️ Security Engineer II at Amazon | Cybersecurity Expert | AI/ML Security Innovator | Neurodivergent Advocate
 
 [![Website](https://img.shields.io/badge/Website-alecakin.com-blue?style=for-the-badge&logo=google-chrome)](https://alecakin.com/about)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wakin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wakin)
+
 [![GitHub](https://img.shields.io/badge/GitHub-rainmana-black?style=for-the-badge&logo=github)](https://github.com/rainmana)
+
 [![Email](https://img.shields.io/badge/Email-w.alec.akin%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:w.alec.akin@gmail.com)
 
 </div>
